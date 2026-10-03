@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/banner.svg" alt="doomagotchi: Self-playing DOOM where live 2.4 GHz RF becomes demons" width="100%"></p>
+
 # DOOMAGOTCHI
 
 A passive, self-playing DOOM that renders the live 2.4 GHz RF environment as demons.
@@ -127,3 +129,8 @@ Uses the **[Freedoom](https://freedoom.github.io/) Phase 1 IWAD** — never a co
 `DOOM.WAD`. The sensor is **passive receive-only**: no deauthentication, no injection,
 no active attacks. It captures handshakes from ambient traffic it can already hear.
 This scope is intentional and non-negotiable; see `CLAUDE.md`.
+
+<!-- org-footer -->
+---
+
+<p align="center"><sub>Part of <a href="https://github.com/m5stack-lab">m5stack-lab</a> · unofficial M5Stack projects, not affiliated with M5Stack · built by <a href="https://github.com/ry-ops">ry-ops</a></sub></p>
